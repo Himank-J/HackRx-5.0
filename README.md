@@ -1,5 +1,4 @@
-# HackRx-5.0
-Hi All,
+<img width="1238" alt="Screenshot 2024-07-23 at 10 55 58 AM" src="https://github.com/user-attachments/assets/af1cfa6e-b94e-4aac-80d8-404e04b70314">
 
 This repository acts as a sample submission. It showcases the format in which your submission shall take place
 ---
