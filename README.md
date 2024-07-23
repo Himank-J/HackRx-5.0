@@ -10,5 +10,10 @@ This repository acts as a sample submission. It showcases the format in which yo
 - Your main.py file should follow the template as shared above.
 - Output should be an excel sheet in the format shared in respective problem statements.
 ---
+## Run the Script 🏃
+Below command should be used to run your code:
 
+`python main.py /path/to/your/folder`
+
+---
 Make sure your submission does not match with anyone else 😉. **Happy coding!**
